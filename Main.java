@@ -51,7 +51,7 @@ class Main {
     String nameFiveteen = scan.next();
     System.out.println(nameFiveteen + " Your seat is " + seats[14]);
 
-    for
+  
 
   }
 }
